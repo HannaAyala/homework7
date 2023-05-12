@@ -1,0 +1,55 @@
+.header {
+  height: 75px;
+  background-color: black;
+  max-width: 1510px;
+  width: 100%;
+}
+.header-line {
+  display: flex;
+  align-items: center;
+}
+.header-logo {
+  margin-left: 115px;
+}
+.nav {
+  margin-left: 602px;
+}
+.nav-item {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 40px;
+  font-family: "open sans";
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.banner {
+  background-color: #f8efef;
+  height: 120px;
+  max-width: 1510px;
+  width: 100%;
+}
+.banner-line {
+  margin: 5px 170px 5px 170px;
+}
+.banner-title {
+  font-family: "open sans";
+  font-weight: 600;
+  font-size: 24px;
+}
+.banner-text {
+  margin-top: 25px;
+  font-family: "raleway";
+  font-weight: 400;
+  font-size: 18px;
+  color: #86878b;
+}
+
+.banner-icon {
+  margin: 10px;
+}
+.banner-img {
+  padding-left: 500px;
+
+  margin-top: -85px;
+}
